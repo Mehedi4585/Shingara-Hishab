@@ -1,2 +1,2 @@
 # Shingara-Hishab
-Horn calculation for officers
+https://mehedi4585.github.io/Shingara-Hishab/
